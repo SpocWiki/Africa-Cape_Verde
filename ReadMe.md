@@ -107,8 +107,8 @@ id: Cape Verde
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Cape_Verde//
-markerFolder: ./Cape_Verde//
+geojsonFolder: .//
+markerFolder: .//
 ```
 
 [name-en::Cape Verde] 
