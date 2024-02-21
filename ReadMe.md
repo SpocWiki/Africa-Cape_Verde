@@ -117,7 +117,7 @@ markerFolder: .//
 [Area-Land::4030] 
 Continent :: [[Africa]]  
 [VehicleCode::CV] 
-Capital :: [[Praia]]  
+Capital :: [[municipalities~Cape_Verde/Praia]]  
 
 ![[Coat_of_arms_of_Cape_Verde.svg|350]] 
 
