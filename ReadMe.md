@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CV
 - CPV
 - Cape Verde
 - Cabo Verde
