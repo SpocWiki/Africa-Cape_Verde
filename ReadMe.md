@@ -21,7 +21,6 @@ draft: false
 publishDate: 
 expiryDate: 
 aliases:
-- CPV
 - Cape Verde
 - Cabo Verde
 - كابو فيردي
