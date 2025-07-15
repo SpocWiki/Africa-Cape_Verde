@@ -40,11 +40,18 @@ markerFolder: ./Santa_Cruz/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz|Santa_Cruz]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.public|Santa_Cruz.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.internal|Santa_Cruz.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.protect|Santa_Cruz.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.private|Santa_Cruz.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.personal|Santa_Cruz.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Cruz.secret|Santa_Cruz.secret]] 
+
+### #is_/same_as :: [Santa_Cruz](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.md) 
+
+### #is_/same_as :: [Santa_Cruz.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.public.md) 
+
+### #is_/same_as :: [Santa_Cruz.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.internal.md) 
+
+### #is_/same_as :: [Santa_Cruz.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.protect.md) 
+
+### #is_/same_as :: [Santa_Cruz.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.private.md) 
+
+### #is_/same_as :: [Santa_Cruz.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.personal.md) 
+
+### #is_/same_as :: [Santa_Cruz.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./São_Domingos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos|São_Domingos]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.public|São_Domingos.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.internal|São_Domingos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.protect|São_Domingos.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.private|São_Domingos.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.personal|São_Domingos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Domingos.secret|São_Domingos.secret]] 
+
+### #is_/same_as :: [São_Domingos](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.md) 
+
+### #is_/same_as :: [São_Domingos.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.public.md) 
+
+### #is_/same_as :: [São_Domingos.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.internal.md) 
+
+### #is_/same_as :: [São_Domingos.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.protect.md) 
+
+### #is_/same_as :: [São_Domingos.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.private.md) 
+
+### #is_/same_as :: [São_Domingos.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.personal.md) 
+
+### #is_/same_as :: [São_Domingos.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Domingos.secret.md)
 

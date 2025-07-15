@@ -40,11 +40,18 @@ markerFolder: ./Tarrafal_de_São_Nicolau/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau|Tarrafal_de_São_Nicolau]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.public|Tarrafal_de_São_Nicolau.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.internal|Tarrafal_de_São_Nicolau.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.protect|Tarrafal_de_São_Nicolau.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.private|Tarrafal_de_São_Nicolau.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.personal|Tarrafal_de_São_Nicolau.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal_de_São_Nicolau.secret|Tarrafal_de_São_Nicolau.secret]] 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.public.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.internal.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.protect.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.private.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.personal.md) 
+
+### #is_/same_as :: [Tarrafal_de_São_Nicolau.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal_de_São_Nicolau.secret.md)
 

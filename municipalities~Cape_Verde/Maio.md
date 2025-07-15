@@ -40,11 +40,18 @@ markerFolder: ./Maio/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Maio|Maio]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Maio.public|Maio.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Maio.internal|Maio.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Maio.protect|Maio.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Maio.private|Maio.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Maio.personal|Maio.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Maio.secret|Maio.secret]] 
+
+### #is_/same_as :: [Maio](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.md) 
+
+### #is_/same_as :: [Maio.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.public.md) 
+
+### #is_/same_as :: [Maio.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.internal.md) 
+
+### #is_/same_as :: [Maio.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.protect.md) 
+
+### #is_/same_as :: [Maio.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.private.md) 
+
+### #is_/same_as :: [Maio.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.personal.md) 
+
+### #is_/same_as :: [Maio.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Maio.secret.md)
 

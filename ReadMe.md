@@ -129,10 +129,4 @@ Capital :: [[municipalities~Cape_Verde/Praia]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Cape_Verde|Cape_Verde]]  
-- [[../../../../../_internal/geo/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]  
-- [[../../../../../_protect/geo/Continent/Africa/Africa~West/Cape_Verde.protect|Cape_Verde.protect]] 
-- [[../../../../../_private/geo/Continent/Africa/Africa~West/Cape_Verde.private|Cape_Verde.private]] 
-- [[../../../../../_personal/geo/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]] 
-- [[../../../../../_secret/geo/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]] 
+

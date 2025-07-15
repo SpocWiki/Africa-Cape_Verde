@@ -40,11 +40,18 @@ markerFolder: ./Praia/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Praia|Praia]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Praia.public|Praia.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Praia.internal|Praia.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Praia.protect|Praia.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Praia.private|Praia.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Praia.personal|Praia.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Praia.secret|Praia.secret]] 
+
+### #is_/same_as :: [Praia](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.md) 
+
+### #is_/same_as :: [Praia.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.public.md) 
+
+### #is_/same_as :: [Praia.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.internal.md) 
+
+### #is_/same_as :: [Praia.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.protect.md) 
+
+### #is_/same_as :: [Praia.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.private.md) 
+
+### #is_/same_as :: [Praia.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.personal.md) 
+
+### #is_/same_as :: [Praia.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Praia.secret.md)
 

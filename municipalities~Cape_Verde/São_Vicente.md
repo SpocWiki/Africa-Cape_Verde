@@ -40,11 +40,18 @@ markerFolder: ./São_Vicente/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente|São_Vicente]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.public|São_Vicente.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.internal|São_Vicente.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.protect|São_Vicente.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.private|São_Vicente.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.personal|São_Vicente.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Vicente.secret|São_Vicente.secret]] 
+
+### #is_/same_as :: [São_Vicente](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.md) 
+
+### #is_/same_as :: [São_Vicente.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.public.md) 
+
+### #is_/same_as :: [São_Vicente.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.internal.md) 
+
+### #is_/same_as :: [São_Vicente.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.protect.md) 
+
+### #is_/same_as :: [São_Vicente.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.private.md) 
+
+### #is_/same_as :: [São_Vicente.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.personal.md) 
+
+### #is_/same_as :: [São_Vicente.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Vicente.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Santa_Catarina_do_Fogo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo|Santa_Catarina_do_Fogo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.public|Santa_Catarina_do_Fogo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.internal|Santa_Catarina_do_Fogo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.protect|Santa_Catarina_do_Fogo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.private|Santa_Catarina_do_Fogo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.personal|Santa_Catarina_do_Fogo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Santa_Catarina_do_Fogo.secret|Santa_Catarina_do_Fogo.secret]] 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.public.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.internal.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.protect.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.private.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.personal.md) 
+
+### #is_/same_as :: [Santa_Catarina_do_Fogo.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Catarina_do_Fogo.secret.md)
 

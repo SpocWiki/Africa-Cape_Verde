@@ -40,11 +40,18 @@ markerFolder: ./São_Miguel/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel|São_Miguel]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.public|São_Miguel.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.internal|São_Miguel.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.protect|São_Miguel.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.private|São_Miguel.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.personal|São_Miguel.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Miguel.secret|São_Miguel.secret]] 
+
+### #is_/same_as :: [São_Miguel](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.md) 
+
+### #is_/same_as :: [São_Miguel.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.public.md) 
+
+### #is_/same_as :: [São_Miguel.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.internal.md) 
+
+### #is_/same_as :: [São_Miguel.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.protect.md) 
+
+### #is_/same_as :: [São_Miguel.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.private.md) 
+
+### #is_/same_as :: [São_Miguel.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.personal.md) 
+
+### #is_/same_as :: [São_Miguel.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Miguel.secret.md)
 

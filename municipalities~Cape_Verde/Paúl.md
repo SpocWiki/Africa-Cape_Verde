@@ -40,11 +40,18 @@ markerFolder: ./Paul/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Paul|Paul]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Paul.public|Paul.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Paul.internal|Paul.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Paul.protect|Paul.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Paul.private|Paul.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Paul.personal|Paul.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Paul.secret|Paul.secret]] 
+
+### #is_/same_as :: [Paúl](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.md) 
+
+### #is_/same_as :: [Paúl.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.public.md) 
+
+### #is_/same_as :: [Paúl.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.internal.md) 
+
+### #is_/same_as :: [Paúl.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.protect.md) 
+
+### #is_/same_as :: [Paúl.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.private.md) 
+
+### #is_/same_as :: [Paúl.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.personal.md) 
+
+### #is_/same_as :: [Paúl.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Paúl.secret.md)
 

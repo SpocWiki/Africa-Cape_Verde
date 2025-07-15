@@ -39,11 +39,18 @@ markerFolder: ./Sal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Sal|Sal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Sal.public|Sal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Sal.internal|Sal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Sal.protect|Sal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Sal.private|Sal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Sal.personal|Sal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Sal.secret|Sal.secret]] 
+
+### #is_/same_as :: [Sal](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.md) 
+
+### #is_/same_as :: [Sal.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.public.md) 
+
+### #is_/same_as :: [Sal.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.internal.md) 
+
+### #is_/same_as :: [Sal.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.protect.md) 
+
+### #is_/same_as :: [Sal.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.private.md) 
+
+### #is_/same_as :: [Sal.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.personal.md) 
+
+### #is_/same_as :: [Sal.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Sal.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./Porto_Novo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo|Porto_Novo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.public|Porto_Novo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.internal|Porto_Novo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.protect|Porto_Novo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.private|Porto_Novo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.personal|Porto_Novo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Porto_Novo.secret|Porto_Novo.secret]] 
+
+### #is_/same_as :: [Porto_Novo](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.md) 
+
+### #is_/same_as :: [Porto_Novo.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.public.md) 
+
+### #is_/same_as :: [Porto_Novo.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.internal.md) 
+
+### #is_/same_as :: [Porto_Novo.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.protect.md) 
+
+### #is_/same_as :: [Porto_Novo.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.private.md) 
+
+### #is_/same_as :: [Porto_Novo.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.personal.md) 
+
+### #is_/same_as :: [Porto_Novo.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.secret.md)
 

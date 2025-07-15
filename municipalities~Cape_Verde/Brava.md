@@ -40,11 +40,18 @@ markerFolder: ./Brava/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Brava|Brava]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Brava.public|Brava.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Brava.internal|Brava.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Brava.protect|Brava.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Brava.private|Brava.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Brava.personal|Brava.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Brava.secret|Brava.secret]] 
+
+### #is_/same_as :: [Brava](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.md) 
+
+### #is_/same_as :: [Brava.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.public.md) 
+
+### #is_/same_as :: [Brava.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.internal.md) 
+
+### #is_/same_as :: [Brava.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.protect.md) 
+
+### #is_/same_as :: [Brava.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.private.md) 
+
+### #is_/same_as :: [Brava.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.personal.md) 
+
+### #is_/same_as :: [Brava.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Brava.secret.md)
 

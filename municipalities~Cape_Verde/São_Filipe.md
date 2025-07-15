@@ -40,11 +40,18 @@ markerFolder: ./São_Filipe/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe|São_Filipe]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.public|São_Filipe.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.internal|São_Filipe.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.protect|São_Filipe.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.private|São_Filipe.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.personal|São_Filipe.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Filipe.secret|São_Filipe.secret]] 
+
+### #is_/same_as :: [São_Filipe](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.md) 
+
+### #is_/same_as :: [São_Filipe.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.public.md) 
+
+### #is_/same_as :: [São_Filipe.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.internal.md) 
+
+### #is_/same_as :: [São_Filipe.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.protect.md) 
+
+### #is_/same_as :: [São_Filipe.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.private.md) 
+
+### #is_/same_as :: [São_Filipe.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.personal.md) 
+
+### #is_/same_as :: [São_Filipe.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Filipe.secret.md)
 

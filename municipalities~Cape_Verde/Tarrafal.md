@@ -40,11 +40,18 @@ markerFolder: ./Tarrafal/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal|Tarrafal]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.public|Tarrafal.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.internal|Tarrafal.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.protect|Tarrafal.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.private|Tarrafal.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.personal|Tarrafal.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Tarrafal.secret|Tarrafal.secret]] 
+
+### #is_/same_as :: [Tarrafal](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.md) 
+
+### #is_/same_as :: [Tarrafal.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.public.md) 
+
+### #is_/same_as :: [Tarrafal.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.internal.md) 
+
+### #is_/same_as :: [Tarrafal.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.protect.md) 
+
+### #is_/same_as :: [Tarrafal.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.private.md) 
+
+### #is_/same_as :: [Tarrafal.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.personal.md) 
+
+### #is_/same_as :: [Tarrafal.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.secret.md)
 

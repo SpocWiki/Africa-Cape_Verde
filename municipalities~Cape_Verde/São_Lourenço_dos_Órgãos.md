@@ -40,11 +40,18 @@ markerFolder: ./São_Lourenço_dos_Órgãos/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos|São_Lourenço_dos_Órgãos]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.public|São_Lourenço_dos_Órgãos.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.internal|São_Lourenço_dos_Órgãos.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.protect|São_Lourenço_dos_Órgãos.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.private|São_Lourenço_dos_Órgãos.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.personal|São_Lourenço_dos_Órgãos.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Lourenço_dos_Órgãos.secret|São_Lourenço_dos_Órgãos.secret]] 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.public.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.internal.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.protect.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.private.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.personal.md) 
+
+### #is_/same_as :: [São_Lourenço_dos_Órgãos.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Lourenço_dos_Órgãos.secret.md)
 

@@ -40,11 +40,18 @@ markerFolder: ./São_Salvador_do_Mundo/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo|São_Salvador_do_Mundo]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.public|São_Salvador_do_Mundo.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.internal|São_Salvador_do_Mundo.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.protect|São_Salvador_do_Mundo.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.private|São_Salvador_do_Mundo.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.personal|São_Salvador_do_Mundo.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/São_Salvador_do_Mundo.secret|São_Salvador_do_Mundo.secret]] 
+
+### #is_/same_as :: [São_Salvador_do_Mundo](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.public.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.internal.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.protect.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.private.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.personal.md) 
+
+### #is_/same_as :: [São_Salvador_do_Mundo.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/São_Salvador_do_Mundo.secret.md)
 

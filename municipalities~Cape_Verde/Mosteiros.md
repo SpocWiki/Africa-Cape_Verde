@@ -40,11 +40,18 @@ markerFolder: ./Mosteiros/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros|Mosteiros]] 
-- [[../../../../../../_public/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.public|Mosteiros.public]] 
-- [[../../../../../../_internal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.internal|Mosteiros.internal]] 
-- [[../../../../../../_protect/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.protect|Mosteiros.protect]] 
-- [[../../../../../../_private/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.private|Mosteiros.private]] 
-- [[../../../../../../_personal/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.personal|Mosteiros.personal]] 
-- [[../../../../../../_secret/geo/Continent/Africa/Cape_Verde/Counties/Mosteiros.secret|Mosteiros.secret]] 
+
+### #is_/same_as :: [Mosteiros](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.md) 
+
+### #is_/same_as :: [Mosteiros.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.public.md) 
+
+### #is_/same_as :: [Mosteiros.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.internal.md) 
+
+### #is_/same_as :: [Mosteiros.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.protect.md) 
+
+### #is_/same_as :: [Mosteiros.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.private.md) 
+
+### #is_/same_as :: [Mosteiros.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.personal.md) 
+
+### #is_/same_as :: [Mosteiros.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.secret.md)
 
