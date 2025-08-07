@@ -128,5 +128,19 @@ Capital :: [[municipalities~Cape_Verde/Praia]]
 [geo-lat::14.9167] 
 
 
+## Confidential Links & Embeds: 
 
+### #is_/same_as :: [ReadMe](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.md) 
+
+### #is_/same_as :: [ReadMe.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.public.md) 
+
+### #is_/same_as :: [ReadMe.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.internal.md) 
+
+### #is_/same_as :: [ReadMe.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.protect.md) 
+
+### #is_/same_as :: [ReadMe.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.private.md) 
+
+### #is_/same_as :: [ReadMe.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.personal.md) 
+
+### #is_/same_as :: [ReadMe.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/ReadMe.secret.md)
 
