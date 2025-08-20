@@ -1,35 +1,36 @@
 ---
 location:
-- 14.9167
-- -23.5167
+  - 14.9167
+  - -23.5167
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26874
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Cape Verde
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Cape Verde
-- Cabo Verde
-- كابو فيردي
-- 佛得角
-- Кабо-Верде
-- the Republic of Cabo Verde
-- la República de Cabo Verde
+  - Cape Verde
+  - Cabo Verde
+  - كابو فيردي
+  - 佛得角
+  - Кабо-Верде
+  - the Republic of Cabo Verde
+  - la República de Cabo Verde
 Languages:
-- pt-CV
+  - pt-CV
 ---
 
 

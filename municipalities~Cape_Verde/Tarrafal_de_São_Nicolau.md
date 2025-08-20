@@ -1,30 +1,29 @@
 ---
-location: [ 16.58 , -24.34 ] 
+location:
+  - 16.58
+  - -24.34
 type: geo-Region
 title: Tarrafal_de_São_Nicolau
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- Tarrafal_de_São_Nicolau
-
+  - Tarrafal_de_São_Nicolau
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # Tarrafal_de_São_Nicolau

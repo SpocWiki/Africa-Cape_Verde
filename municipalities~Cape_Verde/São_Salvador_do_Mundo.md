@@ -1,30 +1,29 @@
 ---
-location: [ 15.07 , -23.61 ] 
+location:
+  - 15.07
+  - -23.61
 type: geo-Region
 title: São_Salvador_do_Mundo
-
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
 isReadOnly: false
 draft: false
 confidential: public
-
 tags:
-- geo/Country/Region
+  - geo/Country/Region
 aliases:
-- São_Salvador_do_Mundo
-
+  - São_Salvador_do_Mundo
 Languages:
-- de
-
-cssclasses: geo-Region
+  - de
+cssclasses:
+  - geo-Region
 publish: true
-linkTitle: 
-keywords: 
-layout: 
-publishDate: 
-expiryDate: 
+linkTitle:
+keywords:
+layout:
+publishDate:
+expiryDate:
 ---
 
 # São_Salvador_do_Mundo
