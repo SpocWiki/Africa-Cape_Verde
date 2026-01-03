@@ -40,17 +40,17 @@ markerFolder: ./Santa_Cruz/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Santa_Cruz](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz|Santa_Cruz]] 
 
-### #is_/same_as :: [Santa_Cruz.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.public|Santa_Cruz.public]] 
 
-### #is_/same_as :: [Santa_Cruz.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.internal|Santa_Cruz.internal]] 
 
-### #is_/same_as :: [Santa_Cruz.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.protect|Santa_Cruz.protect]] 
 
-### #is_/same_as :: [Santa_Cruz.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.private|Santa_Cruz.private]] 
 
-### #is_/same_as :: [Santa_Cruz.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.personal|Santa_Cruz.personal]] 
 
-### #is_/same_as :: [Santa_Cruz.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Santa_Cruz.secret|Santa_Cruz.secret]] 
 

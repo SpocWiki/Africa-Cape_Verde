@@ -40,17 +40,17 @@ markerFolder: ./Ribeira_Grande_de_Santiago/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago|Ribeira_Grande_de_Santiago]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.public|Ribeira_Grande_de_Santiago.public]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.internal|Ribeira_Grande_de_Santiago.internal]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.protect|Ribeira_Grande_de_Santiago.protect]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.private|Ribeira_Grande_de_Santiago.private]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.personal|Ribeira_Grande_de_Santiago.personal]] 
 
-### #is_/same_as :: [Ribeira_Grande_de_Santiago.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Grande_de_Santiago.secret|Ribeira_Grande_de_Santiago.secret]] 
 

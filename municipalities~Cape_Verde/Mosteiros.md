@@ -40,17 +40,17 @@ markerFolder: ./Mosteiros/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mosteiros](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros|Mosteiros]] 
 
-### #is_/same_as :: [Mosteiros.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.public|Mosteiros.public]] 
 
-### #is_/same_as :: [Mosteiros.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.internal|Mosteiros.internal]] 
 
-### #is_/same_as :: [Mosteiros.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.protect|Mosteiros.protect]] 
 
-### #is_/same_as :: [Mosteiros.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.private|Mosteiros.private]] 
 
-### #is_/same_as :: [Mosteiros.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.personal|Mosteiros.personal]] 
 
-### #is_/same_as :: [Mosteiros.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Mosteiros.secret|Mosteiros.secret]] 
 

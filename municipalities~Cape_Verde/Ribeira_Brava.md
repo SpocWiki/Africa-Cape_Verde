@@ -40,17 +40,17 @@ markerFolder: ./Ribeira_Brava/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Ribeira_Brava](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava|Ribeira_Brava]] 
 
-### #is_/same_as :: [Ribeira_Brava.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.public|Ribeira_Brava.public]] 
 
-### #is_/same_as :: [Ribeira_Brava.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.internal|Ribeira_Brava.internal]] 
 
-### #is_/same_as :: [Ribeira_Brava.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.protect|Ribeira_Brava.protect]] 
 
-### #is_/same_as :: [Ribeira_Brava.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.private|Ribeira_Brava.private]] 
 
-### #is_/same_as :: [Ribeira_Brava.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.personal|Ribeira_Brava.personal]] 
 
-### #is_/same_as :: [Ribeira_Brava.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Ribeira_Brava.secret|Ribeira_Brava.secret]] 
 

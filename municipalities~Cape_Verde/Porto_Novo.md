@@ -40,17 +40,17 @@ markerFolder: ./Porto_Novo/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Porto_Novo](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo|Porto_Novo]] 
 
-### #is_/same_as :: [Porto_Novo.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.public|Porto_Novo.public]] 
 
-### #is_/same_as :: [Porto_Novo.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.internal|Porto_Novo.internal]] 
 
-### #is_/same_as :: [Porto_Novo.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.protect|Porto_Novo.protect]] 
 
-### #is_/same_as :: [Porto_Novo.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.private|Porto_Novo.private]] 
 
-### #is_/same_as :: [Porto_Novo.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.personal|Porto_Novo.personal]] 
 
-### #is_/same_as :: [Porto_Novo.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Porto_Novo.secret|Porto_Novo.secret]] 
 

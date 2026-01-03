@@ -40,17 +40,17 @@ markerFolder: ./Tarrafal/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Tarrafal](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal|Tarrafal]] 
 
-### #is_/same_as :: [Tarrafal.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.public|Tarrafal.public]] 
 
-### #is_/same_as :: [Tarrafal.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.internal|Tarrafal.internal]] 
 
-### #is_/same_as :: [Tarrafal.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.protect|Tarrafal.protect]] 
 
-### #is_/same_as :: [Tarrafal.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.private|Tarrafal.private]] 
 
-### #is_/same_as :: [Tarrafal.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.personal|Tarrafal.personal]] 
 
-### #is_/same_as :: [Tarrafal.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Tarrafal.secret|Tarrafal.secret]] 
 

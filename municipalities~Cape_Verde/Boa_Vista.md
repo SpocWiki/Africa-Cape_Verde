@@ -40,17 +40,17 @@ markerFolder: ./Boa_Vista/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Boa_Vista](/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista|Boa_Vista]] 
 
-### #is_/same_as :: [Boa_Vista.public](/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.public|Boa_Vista.public]] 
 
-### #is_/same_as :: [Boa_Vista.internal](/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.internal|Boa_Vista.internal]] 
 
-### #is_/same_as :: [Boa_Vista.protect](/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.protect|Boa_Vista.protect]] 
 
-### #is_/same_as :: [Boa_Vista.private](/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.private|Boa_Vista.private]] 
 
-### #is_/same_as :: [Boa_Vista.personal](/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.personal|Boa_Vista.personal]] 
 
-### #is_/same_as :: [Boa_Vista.secret](/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde/municipalities~Cape_Verde/Boa_Vista.secret|Boa_Vista.secret]] 
 
