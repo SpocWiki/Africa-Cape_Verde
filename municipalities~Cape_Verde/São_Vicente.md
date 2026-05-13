@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./São_Vicente/
 markerFolder: ./São_Vicente/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

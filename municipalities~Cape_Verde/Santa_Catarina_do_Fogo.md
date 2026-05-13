@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Santa_Catarina_do_Fogo/
 markerFolder: ./Santa_Catarina_do_Fogo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

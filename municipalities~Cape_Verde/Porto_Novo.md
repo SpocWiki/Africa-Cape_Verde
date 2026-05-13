@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Porto_Novo/
 markerFolder: ./Porto_Novo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

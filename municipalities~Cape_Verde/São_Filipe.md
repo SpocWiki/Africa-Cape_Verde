@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./São_Filipe/
 markerFolder: ./São_Filipe/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

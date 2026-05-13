@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Boa_Vista/
 markerFolder: ./Boa_Vista/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

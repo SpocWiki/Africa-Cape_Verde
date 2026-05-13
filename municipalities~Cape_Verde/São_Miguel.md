@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./São_Miguel/
 markerFolder: ./São_Miguel/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

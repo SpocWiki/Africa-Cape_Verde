@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./São_Lourenço_dos_Órgãos/
 markerFolder: ./São_Lourenço_dos_Órgãos/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

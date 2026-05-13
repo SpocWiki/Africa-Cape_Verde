@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Santa_Catarina/
 markerFolder: ./Santa_Catarina/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

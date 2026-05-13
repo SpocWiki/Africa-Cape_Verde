@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ribeira_Brava/
 markerFolder: ./Ribeira_Brava/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

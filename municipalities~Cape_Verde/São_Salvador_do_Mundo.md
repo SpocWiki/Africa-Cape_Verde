@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./São_Salvador_do_Mundo/
 markerFolder: ./São_Salvador_do_Mundo/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Tarrafal_de_São_Nicolau/
 markerFolder: ./Tarrafal_de_São_Nicolau/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Ribeira_Grande_de_Santiago/
 markerFolder: ./Ribeira_Grande_de_Santiago/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

@@ -28,7 +28,7 @@ coordinates: [[Praia]]
 markerFile: [[Praia]] 
 defaultZoom: 11 
 maxZoom: 18
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
