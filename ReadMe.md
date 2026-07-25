@@ -244,7 +244,7 @@ highest_point: "[[/_Standards/WikiData/WD~Pico_do_Fogo,499108|WD~Pico_do_Fogo,49
 history_of_topic: "[[/_Standards/WikiData/WD~history_of_Cape_Verde,512094|WD~history_of_Cape_Verde,512094]]"
 culture: "[[/_Standards/WikiData/WD~culture_of_Cape_Verde,598396|WD~culture_of_Cape_Verde,598396]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
 electrical_plug_type:
@@ -779,7 +779,7 @@ dv_UNTERM_Chinese_Formal: 佛得角共和国
 dv_UNTERM_French_Formal: la République de Cabo Verde
 dv_UNTERM_Russian: Кабо-Верде
 dv_UNTERM_Russian_Formal: Республика Кабо-Верде
-dv_Region_Name: "[[../../Africa|Africa]]"
+dv_Region_Name: "[[../../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Western Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -805,7 +805,7 @@ dv_ISO2: CV
 dv_ISO3: CPV
 dv_is_:
   same_as:
-    - "[[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+    - "[[../../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
     - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde|Cape_Verde]]"
     - "[[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public|Cape_Verde.public]]"
     - "[[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]"
@@ -816,7 +816,7 @@ dv_is_:
 dv_has_name_de: Kap Verde
 dv_Area-Total: 4033
 dv_Area-Land: 4030
-dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_VehicleCode: CV
 dv_Alcohol-l: 5
 dv_Language-Id: 467
@@ -825,7 +825,7 @@ dv_has_place_latitude: 14.9167
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Cape_Verde
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
+  - "[[../../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]"
   - "[[/_Standards/Earth/Continent/Africa/Africa~West/Cape_Verde|Cape_Verde]]"
   - "[[/_public/Earth/Continent/Africa/Africa~West/Cape_Verde.public|Cape_Verde.public]]"
   - "[[/_internal/Earth/Continent/Africa/Africa~West/Cape_Verde.internal|Cape_Verde.internal]]"
@@ -842,7 +842,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Cape_Verde/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -910,7 +910,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]] 
 
 ## #has_/map 
 
@@ -929,7 +929,7 @@ markerFile: [[Cape_Verde]]
 
 ```leaflet
 id: Cape_Verde_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -953,11 +953,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Cape_Verde/municipalities~Cape_Verde/Praia|Praia]]  
+Capital :: [[municipalities~Cape_Verde/Praia|Praia]]  
 
 ![[Coat_of_arms_of_Cape_Verde.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Cape-verde.mp3|Anthem-Cape-verde.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Cape-verde.mp3|Anthem-Cape-verde.mp3]]
 
 ![[Flag_of_Cape_Verde.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
